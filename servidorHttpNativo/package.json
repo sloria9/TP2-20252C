@@ -1,5 +1,5 @@
 {
-  "type":"module",
+  "type": "module",
   "name": "servidorhttpnativo",
   "version": "1.0.0",
   "description": "",
@@ -10,6 +10,6 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "DS",
+  "license": "MIT"
 }
