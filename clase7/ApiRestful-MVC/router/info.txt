@@ -1,0 +1,4 @@
+que es
+junta rutas es medio un archivo de configuracion
+capacidad de juntar rutas que tienen el mismo objetivo 
+centralizar informacion
