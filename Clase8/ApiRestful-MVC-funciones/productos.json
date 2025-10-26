@@ -1,0 +1,26 @@
+[
+	{
+		"nombre": "Teclado Mecánico Redragon",
+		"precio": 77777,
+		"stock": 11,
+		"id": "2"
+	},
+	{
+		"nombre": "Mouse Gamer Logitech G502",
+		"precio": 87654,
+		"stock": 22,
+		"id": "3"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": "1234",
+		"stock": "44",
+		"id": "4"
+	},
+	{
+		"nombre": "CPU",
+		"precio": "3456",
+		"stock": "22",
+		"id": "5"
+	}
+]
