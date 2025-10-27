@@ -1,0 +1,45 @@
+# dependencias
+node_modules/
+
+# variables de entorno / secretos
+.env
+.env.local
+.env.*.local
+
+# logs y diagnósticos
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# cobertura / builds / caches
+coverage/
+dist/
+build/
+.cache/
+.tmp/
+.DS_Store
+
+# editor/OS
+.vscode/
+.idea/
+*.swp
+
+data/
+data/db/
+Clase9/base/
+
+
+# MongoDB engine files
+*.wt
+WiredTiger*
+mongod.lock
+storage.bson
+sizeStorer.wt
+journal/
+diagnostic.data/
+*.ns
+*.pid
+*.sock

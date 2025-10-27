@@ -1,0 +1,44 @@
+[
+	{
+		"nombre": "Mouse Gamer Logitech G502",
+		"precio": 87654,
+		"stock": 55555,
+		"id": "3"
+	},
+	{
+		"nombre": "Mesa",
+		"precio": "1234",
+		"stock": 1111,
+		"id": "4"
+	},
+	{
+		"nombre": "prod4",
+		"precio": 111,
+		"stock": 234,
+		"id": "6"
+	},
+	{
+		"nombre": "prod22",
+		"stock": 1111,
+		"precio": 555,
+		"id": "7"
+	},
+	{
+		"nombre": "Mouse",
+		"precio": 1234,
+		"stock": 12,
+		"id": "8"
+	},
+	{
+		"nombre": "Mouse",
+		"precio": 1234.56,
+		"stock": 12,
+		"id": "9"
+	},
+	{
+		"nombre": "M",
+		"precio": 1234.56,
+		"stock": 12,
+		"id": "10"
+	}
+]
